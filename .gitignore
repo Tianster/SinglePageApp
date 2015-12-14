@@ -1,0 +1,3 @@
+# put comments here; must be first line and start with '#'
+node_modules
+.DS_Store
